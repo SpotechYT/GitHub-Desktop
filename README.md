@@ -5,7 +5,7 @@
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
 ## Preview: 
-![Screenshot](https://raw.githubusercontent.com/SpotechYT/serika-dark-github/main/assets/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/SpotechYT/serika-dark-github/main/Screenshot.png)
 
 
 ## How to install:
