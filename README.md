@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Logo.jpg" height="200"></p>
-<h1 align="center">Serika Dark</h1>
+<h1 align="center">Serika Dark Github Desktop</h1>
 <p align="center">A custom github desktop theme for Serika Dark</p>
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
