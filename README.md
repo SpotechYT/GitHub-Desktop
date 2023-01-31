@@ -14,7 +14,7 @@ To install, you need to go to your github desktop file and replace "renderer.css
 MAKE SURE TO MAKE A BACKUP! I AM NOT RESPOSIBLE FOR ANY DAMAGES!
 
 ## Windows:
-1. go to "C:\Users\USERNAME\AppData\Local\GitHubDesktop\app-3.1.2\resources\app"
+1. go to "C:\Users\USERNAME\AppData\Local\GitHubDesktop\app-YOUAPPVERSION\resources\app"
 2. rename "renderer.css" to "renderer.css.backup"
 3. move the "renderer.css" file from this github to "C:\Users\USERNAME\AppData\Local\GitHubDesktop\app-3.1.2\resources\app"
 
